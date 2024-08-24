@@ -8,14 +8,20 @@ body {
     margin: 0;
     background-color: aquamarine;
     width: 100%;
-    height: 100vh; /* Full viewport height */
+    height: 100vh;
+    /* Full viewport height */
     background-image: url('img.avif');
-    background-size: cover; /* Ensures the image covers the entire container */
-    background-position: center; /* Centers the image */
-    background-repeat: no-repeat; /* Prevents repeating the image */
+    background-size: cover;
+    /* Ensures the image covers the entire container */
+    background-position: center;
+    /* Centers the image */
+    background-repeat: no-repeat;
+    /* Prevents repeating the image */
     display: flex;
-    align-items: center; /* Center the chatbot vertically */
-    justify-content: center; /* Center the chatbot horizontally */
+    align-items: center;
+    /* Center the chatbot vertically */
+    justify-content: center;
+    /* Center the chatbot horizontally */
 }
 
 .chat-container {
