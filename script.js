@@ -7,7 +7,6 @@ document.addEventListener('DOMContentLoaded', () => {
     const responses = {
         "are you human": "no i am a chatbot how can i be human",
         "environment": "supportive",
-        "ansh": "he is very noty",
         "by": "same to you",
         "who created you": "Shaikh Haareess and Prakhar created me",
         "how are you made": "i am created with java script and my creator is Shaikh Haareess",
