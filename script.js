@@ -66,7 +66,7 @@ document.addEventListener('DOMContentLoaded', () => {
         "hi": "HOWDY",
         "do you know a joke": "Nate: Why was school easier for cave people. Kate: Why. Nate: Because there was no history to study",
         "how much amount will deduct in security money (Rank wise)": "Officer:7920 Jco:5280 Or:3960 Civ:11880",
-        "hello": "Hi madarchood",
+        "hello": "Hi there how can i help you",
         "how are you": "I'm just a bot, but I’m doing great! How can I assist you?",
         "what is your name": "I’m a chatbot created by Shaikh Haareess and Prakhar Kumar Parashar. You can call me Aps Buddy.",
         "bye": "Goodbye! Have a great day!",
