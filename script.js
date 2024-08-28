@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
         "tell me a joke":"Q:why was the teacher wearing sunglasses in the classroom? a:Because the class was so bright",
         "timings":"The school typically operates from Monday to Friday. The exact hours may vary, but classes generally start around 8:00 aM and end around 2:00 PM. For the most accurate timing, please refer to the school's official website or contact the administration.",
         "fees during admission":"according to Ranks (officers,jco,or,civ) fees will be taken",
-        "criteria for admission":"Birth Certificate and serving certificate is compulsery",
+        "criteria for admission":"Birth Certificate and serving certificate is compulsory",
         "last day for fees":"Every Month of 20th",
         "url":"https://www.apspanagarh.com",
         "fees": "acording to the rank fees will be taken",
