@@ -5,6 +5,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Custom response patterns
     const responses = {
+        "age":"for admission in class-1 age should be 6+",
+        "age criteria":"for admission in class 1 age should be 6+",
         "environment": "supportive",
         "are you human": "no i am a chatbot how can i be human",
         "by":"same to you",
@@ -39,8 +41,8 @@ document.addEventListener('DOMContentLoaded', () => {
         "do you know Prakhar": "Yes he is my creator",
         "do you Know shaikh": "Yes he is my creator",
         "who was Sayantan Barman": "the best teacher aps panagarh has ever witnessed",
-        "mobile phone": "not alowed",
-        "phone": "not alowed",
+        "mobile phone": "not allowed",
+        "phone": "not allowed",
         "who is the goat": "Sayantan Barman",
         "curriculum": "The school follows the curriculum set by the Central Board of Secondary Education (CBSE), which includes a wide range of subjects from kindergarten through secondary education.",
         "timing": "The school typically operates from Monday to Friday. The exact hours may vary, but classes generally start around 8:00 aM and end around 2:00 PM. For the most accurate timing, please refer to the school's official website or contact the administration.",
@@ -62,7 +64,7 @@ document.addEventListener('DOMContentLoaded', () => {
         "how much charges during late fell fees":"upto 20th of the Current Month-100 upto 1 Menth-200, upto 2 months",
         "what are the age criteria of class 1": "AGE should be 6+",
         "when is the last date of Fees Payment": "Every Month of 20th",
-        "hi":"HOWDY",
+        "hi":"Hi there how can i assist you",
         "do you know a joke": "Nate: why was school easier for cave people. Kate: why. Nate: Because there was no history to study",
         "how much amount will deduct in security money (Rank wise)": "Officer:7920 Jco:5280 Or:3960 Civ:11880",
         "hello": "Hi there! How can I help you today?",
