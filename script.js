@@ -5,6 +5,13 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Custom response patterns
     const responses = {
+        "transport":"buses are available as per the area you live.",
+        "transportation":"buses are available as per the area you live."
+        "12 admission","For direct admission student have to take approval from CBSE Bhubaneswar",
+        "admission class 12":"For direct admission student have to take approval from CBSE Bhubaneswar",
+        "class 12":"For direct admission student have to take approval from CBSE Bhubaneswar",
+        "12":"For direct admission student have to take approval from CBSE Bhubaneswar",
+        "uniform":"steel gray pants or skits with white shirt",
         "age":"for admission in class-1 age should be 6+",
         "age criteria":"for admission in class 1 age should be 6+",
         "environment": "supportive",
@@ -111,8 +118,7 @@ document.addEventListener('DOMContentLoaded', () => {
         "what is the school's refund Policy": "after leaving the school Security  money  will  be refund",
         "what is the school's attendance policy": "75% Mandatory",
         "what is the policy on mobile phone use during School hours": "Not allowed in School.",
-        "what is the qualification of teachers": "Bachelor degree & B.ed",
-        "what is the qualification of teachers": "Respect for others verbal warmings will be given",
+        "what is the qualification of teachers": "Bachelor degree & B.ed. Teachers have the qualification of PGT and TGTs",
         "what Sports facilities does the School have": "Cricket Pitch, Basketball Courts, tennis Courts etc.",
         "are there regular Parent teacher meetings": "yes",
         "what extracurricular activities are offered": "Music, arts, sports games, Debate etc.",
